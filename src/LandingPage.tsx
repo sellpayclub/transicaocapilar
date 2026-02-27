@@ -620,7 +620,7 @@ export default function LandingPage() {
               <p className="text-sm text-stone-500 mb-6 text-center">Ideal para quem quer começar agora.</p>
               
               <Button primary={false} className="w-full" href="https://app.sellpay.com.br/checkout/d7ee0a3f-bf6d-4018-9a61-686af78f7b68/7d46d868-9225-46b9-9d65-4aa17dbc46d1">
-                Quero o Básico
+                COMPRAR AGORA
               </Button>
             </div>
           </FadeIn>
@@ -665,7 +665,7 @@ export default function LandingPage() {
               </ul>
               
               <Button className="w-full flex items-center justify-center gap-2" href="https://app.sellpay.com.br/checkout/d7ee0a3f-bf6d-4018-9a61-686af78f7b68/6f5f49a7-0621-4e76-af1f-bf1d779ffe55">
-                Quero Acesso Completo <ArrowRight size={18} />
+                COMPRAR AGORA <ArrowRight size={18} />
               </Button>
             </div>
           </FadeIn>
